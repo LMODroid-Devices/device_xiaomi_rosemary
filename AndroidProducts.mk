@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_rosemary.mk
+    $(LOCAL_DIR)/lmodroid_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_rosemary-user \
-    lineage_rosemary-userdebug \
-    lineage_rosemary-eng
+    lmodroid_rosemary-user \
+    lmodroid_rosemary-userdebug \
+    lmodroid_rosemary-eng
