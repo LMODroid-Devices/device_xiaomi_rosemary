@@ -1,4 +1,4 @@
-# Unpinned blobs from rosemary-user 12 SP1A.210812.016 V14.0.7.0.TKLMIXM release-keys
+# Unpinned blobs from rosemary-user 12 SP1A.210812.016 V14.0.11.0.TKLMIXM release-keys
 
 # AAL
 vendor/lib64/libaal_cust.so
